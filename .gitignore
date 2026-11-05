@@ -1,0 +1,7 @@
+.lpc_api_key
+.env
+.env.*
+__pycache__/
+*.py[cod]
+*~
+*.~*~
